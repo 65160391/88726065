@@ -1,0 +1,27 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "รหัสลับดาวสุริยางค์(The Da Vinci Code)",
+        "price": "345",
+        "author1": "Dan Brown",
+        "author2": "Richard Poe",
+        "author3": "Paul Michael"
+      },
+      {
+        "id": 2,
+        "name": "มีเพียงนี้แหละ(He's Just Not That Into You)",
+        "price": "350",
+        "author1": "Greg Behrendt",
+        "author2": "Liz Tuccillo"
+      },
+      {
+        "id": 3,
+        "name": "นักสร้างแห่งการพูด(Eats, Shoots & Leaves)",
+        "price": "427",
+        "author1": "Lynne Truss",
+        "author2": "Bonnie Timmons"
+      }
+    ]
+  }
+  
